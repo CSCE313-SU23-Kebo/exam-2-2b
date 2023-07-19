@@ -1,4 +1,4 @@
-# Exam 2.2.a: Threads synchonization
+# Exam 2.2.b: Threads synchonization
 
 Write a C++ program that synchronizes two threads to replicate a TCP 2-way handshake.
 
